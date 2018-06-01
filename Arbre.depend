@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1527854818 source:c:\users\florian\desktop\c\entrainement\arbre\liste.c
+	"liste.h"
+
+1527852925 c:\users\florian\desktop\c\entrainement\arbre\liste.h
+	<stdio.h>
+	<stdlib.h>
+
+1527854421 source:c:\users\florian\desktop\c\entrainement\arbre\main.c
+	"liste.h"
+
